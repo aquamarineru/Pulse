@@ -78,7 +78,7 @@ $('.button_mini').each(function(i){
         });
     }
 
-    validateForms('#consultation form');
+    validateForms('#consultation-form');
     validateForms('#consultation form');
     validateForms('#order form');
 
