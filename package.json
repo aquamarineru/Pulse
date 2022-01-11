@@ -9,7 +9,7 @@
   "author": "Marina",
   "license": "ISC",
   "devDependencies": {
-    "browser-sync": "^2.27.7",
+    "browser-sync": "^2.23.6",
     "gulp": "^4.0.2",
     "gulp-autoprefixer": "^8.0.0",
     "gulp-clean-css": "^4.3.0",
@@ -24,4 +24,3 @@
     "maintained node versions"
   ]
 }
-
