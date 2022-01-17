@@ -253,17 +253,15 @@
 			}
 		}
 	}
-    .catalog{
+    .catalog {
         &__tabs{
-            margin-top: 35px;
+            flex-direction: column;
+            justify-content: space-between;
+            align-items: center;
+            margin-top: 17px;
         }
         &__tab {
-            font-size: 11px;
-            width: 190px;
-            height: 30px;
-        }
-        &__content {
-            margin-top: 40px;
+            margin-bottom: 10px;
         }
     }
     .footer {
