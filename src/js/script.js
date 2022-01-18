@@ -115,6 +115,7 @@ $('.button_mini').each(function(i){
         return false;
       });
 
+      new WOW().init();
 });
   
 
