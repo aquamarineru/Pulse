@@ -10,4 +10,3 @@ This project was created using the following tools:
 
 [Figma layout](https://www.figma.com/file/zWtpNVgBT91sEg2li9JKBd/Pulse?node-id=0%3A1)
 
-[Validation](img/screen.png)
