@@ -1,4 +1,4 @@
-# Pulse https://aquamarine.com.de/
+# Pulse 
 This project was created using the following tools:
 1. [Bootstrap](https://getbootstrap.com/)
 2. [BEM Methodologie](https://en.bem.info/methodology/)
